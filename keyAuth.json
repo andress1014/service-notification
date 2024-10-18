@@ -1,0 +1,14 @@
+{
+    "type": "service_test",
+    "project_id": "test",
+    "private_key_id": "test",
+    "private_key": "PRIVATEKEY",
+    "client_email": "test",
+    "client_id": "111111111111111111111111",
+    "auth_uri": "test",
+    "token_uri": "test",
+    "auth_provider_x509_cert_url": "test",
+    "client_x509_cert_url": "test",
+    "universe_domain": "test.com"
+}  
+  
